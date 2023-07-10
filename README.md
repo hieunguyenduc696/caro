@@ -24,7 +24,7 @@ $ yarn test
 
 ### Some key features of the application
 
-- The Grid is infinite
+- The Grid is infinite, you can hold the left mouse button to move the grid
 - Play with other people (X, O)
 - Data is store in local storage so you can refresh the page
 - Player can reset the game by clicking reset button
